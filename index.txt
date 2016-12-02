@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Task List</title>
+		<link rel="stylesheet" href="css/app.css">
+	</head>
+	<body>
+		<img src="img/clip.png" alt="Clipboard"/>
+		<input type="text" placeholder="Add Tasks Here..." id="taskValue" />
+		<button id="addBtn">Add</button>
+		<hr/>
+		<section id="content"></section>
+		<script src="js/app.js"></script>
+	</body>
+</html>  
